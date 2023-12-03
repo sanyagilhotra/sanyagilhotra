@@ -1,4 +1,4 @@
-# Hi there, I'm Sanya👋
+# Hi there, I'm Sanya <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img>
 
 - 🔭 I’m a pre final year CSE student
 - 🙎‍♀️ Pronouns: she/her
