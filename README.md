@@ -12,7 +12,8 @@
 - 🙎‍♀️ Pronouns: she/her
 - 🌱 I’m currently learning how to work with ML and DL algos
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyagilhotra&layout=compact&theme=aura)](https://github.com/sanyagilhotra)
+
+
 
 ## Connect with me ☕ :
 
@@ -23,6 +24,8 @@
 
 </div>
 <!--
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyagilhotra&layout=compact&theme=aura)](https://github.com/sanyagilhotra)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyagilhotra&layout=compact&theme=aura)]
 -->
 <!--
