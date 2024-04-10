@@ -10,7 +10,9 @@
 
 - 🔭 I’m a pre final year CSE student
 - 🙎‍♀️ Pronouns: she/her
-- 🌱 I’m currently learning Web Dev and ML
+- 🌱 I’m currently learning how to work with ML and DL algos
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyagilhotra&layout=compact&theme=aura)](https://github.com/sanyagilhotra)
 
 ## Connect with me ☕ :
 
